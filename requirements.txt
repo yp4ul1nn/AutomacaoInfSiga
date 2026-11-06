@@ -1,0 +1,4 @@
+pandas
+curl_cffi
+gspread
+google-auth
